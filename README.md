@@ -5,6 +5,6 @@
     <img src="/img/screen.PNG" height="fill" width="fill" align="center">
   </td>
   <td>
-    Realizzazione del solitario di Napoleone in Javascript
+    Realization of Napoleon's solitaire in Javascript.
   </td>
 </table>
