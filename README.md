@@ -1,4 +1,4 @@
-# Solitario-di-Napoleone
+# Napoleon Solitaire 
 
 <table>
   <td width="600" align="center">
